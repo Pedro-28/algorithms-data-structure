@@ -15,3 +15,5 @@ function splitList(array) {
     highestNumber: null,
   });
 }
+
+// console.log(splitList(["a", 10, "b", "hola", 122, 15]));
